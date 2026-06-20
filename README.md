@@ -27,18 +27,6 @@ To-Do-List/
 └── README.md
 ```
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/To-Do-List.git
-```
-
-2. Open the project in Visual Studio.
-
-3. Build and run the application.
-
 ## 📸 Example
 
 ```text
